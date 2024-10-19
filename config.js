@@ -9,9 +9,9 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038']]
-global.mods = []
-global.prems = []
+global.owner = [['639709857984', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038']]
+global.mods = [639709857984]
+global.prems = [639709857984]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -70,13 +70,13 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
-global.author = 'elrebelde21'
+global.packname = 'Luv'
+global.author = 'LuvLoner'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃' 
-global.botname = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝙇uv𝐁𝐨𝐭-𝐌𝐃' 
+global.botname = '𝙇uv𝐁𝐨𝐭-𝐌𝐃'
 global.vs = '1.9.5'
 global.yt = 'https://www.youtube.com/@elrebelde.21'
 global.tiktok = 'tiktok.com/@elrebelde21'
